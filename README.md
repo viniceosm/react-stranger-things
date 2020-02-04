@@ -1,2 +1,5 @@
 # react-stranger-things
-react without npm, build and nodejs
+
+Using reactjs without NPM, build and nodejs.
+
+[Test me here.](https://viniceosm.github.io/react-stranger-things/)
